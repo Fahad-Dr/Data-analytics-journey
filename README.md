@@ -6,3 +6,5 @@ learned about the data ecosystem and the different roles like Data Engineer and 
 May 4, 2026
 Finished the "Defining Data Analysis" video.
 Starting to understand the data analyst's role in solving business problems.
+May 6, 2026
+Finished the "Responsibilities of Data Analytics" video.
